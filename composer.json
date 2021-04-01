@@ -12,7 +12,7 @@
   "require": {
     "php": "^7.2",
     "illuminate/support": "^6.0|^7.0|^8.0",
-    "composer require am2tec/cpanel-php":"*",
+    "am2tec/cpanel-php":"*",
     "guzzlehttp/guzzle" : "*"
   },
   "autoload": {
