@@ -13,11 +13,11 @@ If you are Laravel 4 user, please use v1.0.1 version instead.
 
 To install this package, you can run this code via your terminal
 ```shell
-	composer require gufy/cpanel-whm:~1.0
+	composer require h-o-sein/cpanel-whm
 ```
 Or update your `composer.json` by adding this line
 ```json
-	"gufy/cpanel-whm":"~1.0"
+	"h-o-sein/cpanel-whm":"~1.0"
 ```
 Then, run this code
 ```shell
