@@ -10,9 +10,10 @@
     }
   ],
   "require": {
-    "php": ">=5.4.0",
+    "php": "^7.2",
     "illuminate/support": "^6.0|^7.0|^8.0",
-    "gufy/cpanel-php": "~1.0"
+    "gufy/cpanel-php":"~2.0",
+    "guzzlehttp/guzzle" : "*"
   },
   "autoload": {
     "classmap": [
